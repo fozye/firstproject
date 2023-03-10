@@ -1,0 +1,158 @@
+@import url('https://fonts.googleapis.com/css2?family=Climate+Crisis&family=Roboto:ital@0;1&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    padding: 10px;
+    font-weight: bold;
+    /* background-image: url(https://abrakadabra.fun/uploads/posts/2022-01/1641093872_1-abrakadabra-fun-p-nezhno-rozovoe-nebo-2.jpg); */
+color: #3D3273 ;
+}
+
+.card {
+    color: #800000;
+}
+
+.conteiner {
+ padding: 10px;
+ margin: 10px;
+ font-size: 15px
+ /* margin: auto; */
+
+  */
+}
+
+.img {
+    margin: ;
+    width: 250px;
+    border-radius: 20px;
+    box-shadow: 4px 4px 14px rgba(0, 0, 0, 0.3);.
+}
+
+.btn {
+    color: #800000;
+    font-size: 20px;
+    padding: 5px 17.5px;
+    background: coral;
+    border-radius: 4.25px;
+    border-top: 3px solid #DEB887;
+    border-right: 3px solid #DEB887;
+    border-bottom: 4px solid brown;
+    border-left: 4px solid brown;
+    font-family: inherit;
+}
+
+.btn:hover {
+    color: #800000;
+    font-size: 20px;
+    padding: 6px 18.5px;
+    background: coral;
+    border-radius: 4.4px;
+    border-top: 3.4px solid #DEB887;
+    border-right: 3.4px solid #DEB887;
+    border-bottom: 4.4px solid brown;
+    border-left: 4.4px solid brown;
+    opacity: .91;
+}
+
+.link {
+text-decoration: none;
+color: black;
+}
+
+
+a:visited {
+color: #800000;
+text-decoration: underline;
+
+}
+ 
+.form-row {
+    display: flex;
+    margin-bottom: 10px;
+}
+.form-row .form-group {
+/* display: inline-block; */
+margin-right: 20px;
+width: calc(50% - 20px);
+
+}
+
+.form-row .form-group:last-child {
+    margin-right: 0;
+}
+
+.frm h1 {
+text-align: center;
+}
+
+.form-group label {
+display: block;
+}
+
+.form-group input,
+.form-group textarea {
+    width: 100%;
+    border: none;
+    outline: none;
+    box-sizing: border-box;
+    background: transparent;
+    border-bottom: 1px solid black;
+    padding: 15px 0 10px;
+    font-family: inherit ;
+}
+
+.info {
+    
+}
+
+
+
+@media (max-width: 500px) {
+    .conteiner {
+        font-size: 10px;
+    }
+    .img {
+        width: 175px;
+    }
+    .btn {
+        font-size: 15px;
+        padding: 2.5px 12.5px;
+    }
+}
+
+
+.abubach {
+    width: 295px ;
+   background: rgb(240, 214, 214);
+  padding: 10px;
+  margin-top: 25px;
+  padding-left: 20px;
+}
+
+
+.form-row .form-group {
+    margin-top: ;
+}
+
+.form-row input {
+    width: 100%;
+    border: none;
+    outline: none;
+    box-sizing: border-box;
+    background: transparent;
+    border-bottom: 1px solid black;
+    padding: 15px 0 10px;
+    font-family: inherit ;
+}
+
+.form-row textarea {
+  border: none;
+    outline: none;
+    box-sizing: border-box;
+margin-bottom: 20px; */
+}
+
+    
+
+    
